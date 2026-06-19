@@ -93,8 +93,8 @@ The lab uses VMware's **NAT** network by default, giving Kali and Metasploitable
 
 | Machine | IP |
 |---|---|
-| Kali Linux | 192.168.117.128 |
-| Metasploitable2 | 192.168.117.129 |
+| Kali Linux | 192.168.122.183 |
+| Metasploitable2 | 192.168.122.255 |
 
 Verify connectivity:
 ```bash
